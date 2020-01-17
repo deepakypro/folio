@@ -64,7 +64,7 @@ dependencies {
 ```groovy
 dependencies {
     ...
-    implementation "com.github.deepakypro:folio::0.5.5"
+    implementation "com.github.deepakypro:folio:0.5.5"
     ...
 }
 ```
