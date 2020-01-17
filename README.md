@@ -61,6 +61,14 @@ dependencies {
 }
 ```
 
+```groovy
+dependencies {
+    ...
+    implementation "com.github.deepakypro:folio::0.5.5"
+    ...
+}
+```
+
 ### Enable Multidex support
 
 Enable Multidex support as explained in this [Android Doc](https://developer.android.com/studio/build/multidex)
